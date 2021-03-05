@@ -8,7 +8,8 @@ For each of the demos there is a reference to . ./AZ_Sub_Details_1.ps1 - this fi
 Example:
 
 *$TENANTID_DEF       = xxxxxxxxxxxxxxxx*
-*$SUBCRIPTIONID_DEF  = "yyyyyyyyyyyyyyy*
+
+*$SUBCRIPTIONID_DEF  = yyyyyyyyyyyyyyy*
 
 
 ## Keyvault_Demo
