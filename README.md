@@ -6,10 +6,10 @@ See each demo for their inline documentation and below for additional details.
 </blockquote>
 For each of the demos there is a reference to . ./AZ_Sub_Details_1.ps1 - this file contains the variable declarations for the Azure Tenant and associated Subscription.
 Example:
-~~~
-$TENANTID_DEF       = "xxxxxxxxxxxxxxxx"
-$SUBCRIPTIONID_DEF  = "yyyyyyyyyyyyyyy"
-~~~
+
+_$TENANTID_DEF       = "xxxxxxxxxxxxxxxx"
+_$SUBCRIPTIONID_DEF  = "yyyyyyyyyyyyyyy"
+
 
 ## Keyvault_Demo
 This is just an AZ Powershell script to deploy a service principal with a defined scope to a resource group, deploy a keyvault, and create / recall a key secret.
