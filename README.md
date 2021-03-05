@@ -7,8 +7,8 @@ See each demo for their inline documentation and below for additional details.
 For each of the demos there is a reference to . ./AZ_Sub_Details_1.ps1 - this file contains the variable declarations for the Azure Tenant and associated Subscription.
 Example:
 
-_$TENANTID_DEF       = "xxxxxxxxxxxxxxxx"
-_$SUBCRIPTIONID_DEF  = "yyyyyyyyyyyyyyy"
+*$TENANTID_DEF       = xxxxxxxxxxxxxxxx*
+*$SUBCRIPTIONID_DEF  = "yyyyyyyyyyyyyyy*
 
 
 ## Keyvault_Demo
