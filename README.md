@@ -19,4 +19,7 @@ This demo includes a Jupyter notebook as well as the exported powershell script.
 ## VM Create_Demo
 This is just a quick and dirty script to produce a vm or to be looped for a series of vms.
 
+## pyGetAzInstData
+Python example of using the Azure Invoke-AzVMRunCommand to execute a python3 script on a VM (likely Linux) to output the Azure Instance Metadata. 
+
 
